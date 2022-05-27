@@ -7,7 +7,9 @@ Due to the presence of academic disloyalty, the math and reading scores of ninth
 
 ### Resources
 Software: Jupyter Notebook, Python 3.7.13,
+
 Data Sources: [schools_complete.csv](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/schools_complete.csv), [students_complete.csv](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/students_complete.csv)
+
 Challenge Code: [PyCitySchools_Challenge](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Results
