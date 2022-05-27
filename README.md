@@ -15,7 +15,7 @@ Due to the presence of academic disloyalty, the math and reading scores of ninth
   * Old District Summary: ![District_Summary_Old](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_district_sum_old.PNG)
   * New District Summary: ![District_Summary_New](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_district_sum_new.PNG)
 
-* The school summary for Thomas High School was also affect marginally. Shown below in the old and new THS summary, the scores and percentages decreased at most roughly 0.35. Like the district summary, this change is slight because only a small population of the total population was altered. 
+* The school summary for Thomas High School was also affect marginally. Shown below in the old and new THS summary, the scores and percentages mostly decreased at a maximum of roughly 0.35. Notably, the average reading score increased by approximately 0.05. Like the district summary, this change is slight because only a small population of the total population was altered. 
   * Old School Summary: ![School_Summary_Old](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_school_sum_old.PNG)
   * New School Summary: ![School_Summary_New](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_school_sum_new.PNG)
 
