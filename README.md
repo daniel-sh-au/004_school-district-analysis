@@ -7,11 +7,14 @@ Due to the presence of academic disloyalty, the math and reading scores of ninth
 
 ### Resources
 Software: Jupyter Notebook, Python 3.7.13,
-Data Sources: [schools_complete.csv](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/schools_complete.csv], [students_complete.csv](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/students_complete.csv)
+Data Sources: [schools_complete.csv](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/schools_complete.csv), [students_complete.csv](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/students_complete.csv)
 Challenge Code: [PyCitySchools_Challenge](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Results
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
+* A
+* a
+* a
 
 ## Summary
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
