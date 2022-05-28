@@ -11,11 +11,11 @@ Due to the presence of academic disloyalty, the math and reading scores of ninth
 * Challenge Code: [PyCitySchools_Challenge](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Results
-* The district summary was affected marginally. As shown below in the old and new district summaries, the scores and percentages decreased around 0.0 to 0.3. This slight disparity was caused by the removal of only 461 students (THS, 9th graders) of the 39,170 total students in the data set. 
+* The district summary was affected marginally. As shown below in the old and new district summaries, the scores and percentage passing decreased around 0.0 to 0.3. This slight disparity was caused by the removal of only 461 students (THS, 9th graders) of the 39,170 total students in the data set. 
   * Old District Summary: ![District_Summary_Old](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_district_sum_old.PNG)
   * New District Summary: ![District_Summary_New](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_district_sum_new.PNG)
 
-* The school summary for Thomas High School was also affect marginally. Shown below in the old and new THS summary, the scores and percentages mostly decreased at a maximum of roughly 0.35. Notably, the average reading score increased by approximately 0.05. Like the district summary, this change is slight because only a small population of the total population was altered. 
+* The school summary for Thomas High School was also affect marginally. Shown below in the old and new THS summary, the scores and percentage passing mostly decreased at a maximum of roughly 0.35. Notably, the average reading score increased by approximately 0.05. Like the district summary, this change is slight because only a small population of the total population was altered. 
   * Old School Summary: ![School_Summary_Old](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_school_sum_old.PNG)
   * New School Summary: ![School_Summary_New](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_school_sum_new.PNG)
 
