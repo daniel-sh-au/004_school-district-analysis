@@ -44,9 +44,9 @@ After replacing the ninth-grade scores for Thomas High School (THS):
 
 * Further analysis was completed to determine if replacing the ninth grader's grades of THS would affect the scores by gender. After the removal, it was observed that the average math and reading scores dropped by approximately 0.02 to 0.06%. The Old and New scores by gender are shown in the table below. 
 
-  | Old Score by Gender | New Score by Gender |
-  | ------------------- | ------------------- |
-  | ![Score_by_Gender_Old](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_score_by_gender_old.PNG) | ![Score_by_Gender_New](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_score_by_gender_new.PNG)
+    | Old Score by Gender | New Score by Gender |
+    | ------------------- | ------------------- |
+    | ![Score_by_Gender_Old](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_score_by_gender_old.PNG) | ![Score_by_Gender_New](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_score_by_gender_new.PNG)
 
 ## Summary
 The removal of the ninth grader scores in Thomas High School (THS) had some impacts on the dataset. In the school summary, it was observed for THS that the **average math score decreased** by approximately **0.07%**. It was also observed for THS that the **average reading score increased** by approximately **0.05%**. Additionally, THS’s **% Passing Math, % Passing Reading, and % Overall Passing decreased** by **0.09 to 0.32%**. These decline of scores from THS lead to a reduction in the **District Summary, score and percent passing columns**; A decrease of approximately **0 to 0.3%**. Aside from the School Summary and District Summary metrics, no other changes were found in the school district analysis. Ultimately, these changes are minor and demonstrates that the removal of 461 students from the 39,170 total student population will not drastically affect the analysis. Thomas High School continues to be ranked second out of all the high schools in the district. 
