@@ -61,7 +61,7 @@ The replacement of the ninth grader scores in Thomas High School (THS) had some 
 * **Scores by School Spending**, **School Size**, and **School Type**
   * In Spending Range $631-645, % Passing Reading and % Overall Passing decreased by 0.1%
   * In School Size Medium, % Passing Reading decreased by 0.1%
-  * In School Type, no changes were found. 
+  * In School Type, no changes were found to the tenth of a decimal place. 
 * **Score by Gender**
   * Average Math Score decreased by 0.05% to 0.06%
   * Average Reading Score decreased by 0.02% to 0.03%
