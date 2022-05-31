@@ -49,7 +49,7 @@ After replacing the ninth-grade scores for Thomas High School (THS):
     | ![Score_by_Gender_Old](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_score_by_gender_old.PNG) | ![Score_by_Gender_New](https://github.com/daniel-sh-au/UofT_DataBC_Module04_school-district-analysis/blob/main/Resources/results_score_by_gender_new.PNG)
 
 ## Summary
-The removal of the ninth grader scores in Thomas High School (THS) had some minor impacts on the dataset. These changes can be summarized below: 
+The replacement of the ninth grader scores in Thomas High School (THS) had some minor impacts on the dataset. These changes can be summarized below: 
 * **District Summary**
   * Average Math Score decreased by 0.06% 
   * Average Reading Score decreased by 0.02% 
@@ -65,4 +65,5 @@ The removal of the ninth grader scores in Thomas High School (THS) had some mino
 * **Score by Gender**
   * Average Math Score decreased by 0.05% to 0.06%
   * Average Reading Score decreased by 0.02% to 0.03%
+
 Ultimately, these changes are insignificant and demonstrates that the removal of 461 students from the 39,170 total student population will not drastically affect the analysis. Thomas High School continues to be ranked second out of all the high schools in the district. 
